@@ -197,7 +197,7 @@ def sh_str(id):
 
 # app.run(host='0.0.0.0', port=int(os.getenv('PORT') or '8080'))
 # app.run(host='0.0.0.0', port=int(os.getenv('PORT') or '3000'))
-app.run(host='0.0.0.0', port=3000)
+app.run(host='0.0.0.0', port=5000)
 
 
 
